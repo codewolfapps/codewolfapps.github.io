@@ -13,14 +13,15 @@ observer.observe(el);
 });
 
 
-// Mouse reactive glow background
+// Smooth subtle cursor glow
 
-document.addEventListener("mousemove", e=>{
+const glow = document.createElement("div");
+glow.className = "cursor-glow";
+document.body.appendChild(glow);
 
-const x = e.clientX / window.innerWidth * 100;
-const y = e.clientY / window.innerHeight * 100;
+document.addEventListener("mousemove", e => {
 
-document.body.style.background =
-`radial-gradient(circle at ${x}% ${y}%, rgba(80,160,255,.18), transparent 40%), #05070d`;
+glow.style.left = e.clientX + "px";
+glow.style.top = e.clientY + "px";
 
 });
