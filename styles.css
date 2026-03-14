@@ -103,6 +103,24 @@ filter:blur(0);
 }
 }
 
+/* PLAY BADGE */
+
+.play-badge{
+
+height:56px;
+
+margin-top:18px;
+
+transition:transform .25s ease;
+
+}
+
+.play-badge:hover{
+
+transform:scale(1.05);
+
+}
+
 /* HERO */
 
 .hero{
