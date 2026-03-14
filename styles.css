@@ -215,6 +215,15 @@ box-shadow:
 0 0 20px rgba(125,211,252,0.35);
 }
 
+/* BUTTON GROUP */
+
+.buttons{
+display:flex;
+gap:12px;
+margin-top:18px;
+flex-wrap:wrap;
+}
+
 /* BUTTON */
 
 .button{
@@ -248,6 +257,34 @@ box-shadow:0 0 14px rgba(125,211,252,0.4);
 .button:hover{
 transform:translateY(-2px);
 box-shadow:0 0 22px rgba(125,211,252,0.7);
+}
+
+/* SECONDARY BUTTON */
+
+.button.secondary{
+
+background:transparent;
+
+color:#7dd3fc;
+
+border:1px solid rgba(125,211,252,0.4);
+
+box-shadow:none;
+
+}
+
+.button.secondary:hover{
+
+background:rgba(125,211,252,0.08);
+
+box-shadow:0 0 14px rgba(125,211,252,0.25);
+
+transform:translateY(-2px);
+
+}
+
+.card .buttons{
+margin-top:20px;
 }
 
 /* CONTACT */
