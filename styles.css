@@ -41,6 +41,36 @@ pointer-events:none;
 z-index:-1;
 }
 
+/* CURSOR EFFECTS */
+
+.cursor-glow{
+
+position:fixed;
+
+width:420px;
+height:420px;
+
+pointer-events:none;
+
+transform:translate(-50%,-50%);
+
+background:radial-gradient(
+circle,
+rgba(125,211,252,0.08),
+rgba(167,139,250,0.06),
+transparent 70%
+);
+
+filter:blur(60px);
+
+z-index:-1;
+
+transition:
+left .08s linear,
+top .08s linear;
+
+}
+
 /* CONTAINER */
 
 .container{
