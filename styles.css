@@ -259,7 +259,8 @@ box-shadow:
 
 .buttons{
 display:flex;
-gap:12px;
+gap:14px;
+align-items:center;
 margin-top:18px;
 flex-wrap:wrap;
 }
