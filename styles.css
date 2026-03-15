@@ -125,6 +125,7 @@ transform:scale(1.05);
 
 .windows-badge{
 
+height:42px;
 display:inline-flex;
 align-items:center;
 gap:10px;
@@ -246,6 +247,9 @@ margin-top:35px;
 
 .card{
 
+display:flex;
+flex-direction:column;
+
 background:linear-gradient(
 145deg,
 rgba(30,41,59,0.8),
@@ -363,7 +367,8 @@ transform:translateY(-2px);
 }
 
 .card .buttons{
-margin-top:20px;
+margin-top:auto;
+padding-top:20px;
 }
 
 /* CONTACT */
