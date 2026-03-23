@@ -1,0 +1,42 @@
+{
+  "quotes": [
+    { "id": 11, "text": "Beware of little expenses; a small leak will sink a great ship.", "author": "Benjamin Franklin" },
+    { "id": 12, "text": "Do not save what is left after spending, but spend what is left after saving.", "author": "Warren Buffett" },
+    { "id": 13, "text": "Never spend your money before you have it.", "author": "Thomas Jefferson" },
+    { "id": 14, "text": "An investment in knowledge pays the best interest.", "author": "Benjamin Franklin" },
+
+    { "id": 16, "text": "Too many people spend money they earned to buy things they don’t want.", "author": "Will Rogers" },
+    { "id": 17, "text": "Money is a terrible master but an excellent servant.", "author": "P.T. Barnum" },
+    { "id": 18, "text": "A budget is telling your money where to go instead of wondering where it went.", "author": "Dave Ramsey" },
+    { "id": 19, "text": "You must gain control over your money or the lack of it will forever control you.", "author": "Dave Ramsey" },
+    { "id": 20, "text": "Do not go broke trying to look rich.", "author": "Dave Ramsey" },
+
+    { "id": 22, "text": "Financial peace isn’t the acquisition of stuff; it’s learning to live on less.", "author": "Dave Ramsey" },
+    { "id": 23, "text": "He who buys what he does not need steals from himself.", "author": "Swedish Proverb" },
+    { "id": 25, "text": "Never depend on a single income; make investments to create a second source.", "author": "Warren Buffett" },
+
+    { "id": 26, "text": "The stock market is a device for transferring money from the impatient to the patient.", "author": "Warren Buffett" },
+    { "id": 27, "text": "Time is more valuable than money; you can get more money, but not more time.", "author": "Jim Rohn" },
+
+    { "id": 30, "text": "Wealth consists not in having great possessions, but in having few wants.", "author": "Epictetus" },
+
+    { "id": 31, "text": "The quickest way to double your money is to fold it and put it back in your pocket.", "author": "Will Rogers" },
+    { "id": 32, "text": "If you would be wealthy, think of saving as well as getting.", "author": "Benjamin Franklin" },
+    { "id": 35, "text": "A fool and his money are soon parted.", "author": "Thomas Tusser" },
+
+    { "id": 37, "text": "The individual investor should act consistently as an investor and not as a speculator.", "author": "Ben Graham" },
+    { "id": 38, "text": "In investing, what is comfortable is rarely profitable.", "author": "Robert Arnott" },
+    { "id": 39, "text": "Wide diversification is only required when investors do not understand what they are doing.", "author": "Warren Buffett" },
+
+    { "id": 44, "text": "The real measure of your wealth is how much you’d be worth if you lost all your money.", "author": "Unknown" },
+
+    { "id": 46, "text": "Opportunities come infrequently; when it rains gold, put out the bucket.", "author": "Warren Buffett" },
+    { "id": 47, "text": "Chains of habit are too light to be felt until they are too heavy to be broken.", "author": "Warren Buffett" },
+
+    { "id": 48, "text": "It’s not how much money you make, but how much money you keep.", "author": "Robert Kiyosaki" },
+    { "id": 50, "text": "The art is not in making money, but in keeping it.", "author": "Proverb" },
+
+    { "id": 52, "text": "Money often costs too much.", "author": "Ralph Waldo Emerson" },
+    { "id": 56, "text": "The safest way to double your money is to fold it over once.", "author": "Kin Hubbard" }
+  ]
+}
