@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "quotes": [
     { "id": 11, "text": "Beware of little expenses; a small leak will sink a great ship.", "author": "Benjamin Franklin" },
     { "id": 12, "text": "Do not save what is left after spending, but spend what is left after saving.", "author": "Warren Buffett" },
